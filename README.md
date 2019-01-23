@@ -2,7 +2,7 @@
 ## Assignment 1 for CS
 ### Luis Lopez 
 
-##Project Description
+## Project Description
 This repository creates the resources needed to build a simple pong game using unity.
 To get this project up and running complete the following directions
 *  Download the project,
