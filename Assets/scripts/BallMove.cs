@@ -6,7 +6,7 @@ using UnityEngine;
 public class BallMove : MonoBehaviour
 {
     private gamePong myGame;
-    private float ballSpeed = 12f;
+    private float ballSpeed = 10f;
     private float ballRadius ;
     Vector2 ballDirection = new Vector2(1,1).normalized;
 
