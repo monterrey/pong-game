@@ -1,5 +1,5 @@
 # Pong Game
-## Assignment 1 for CS
+## Assignment 1 for CS 383
 ### Luis Lopez 
 
 ## Project Description
